@@ -1,6 +1,7 @@
     	* {
     		font-family: "Trebuchet MS", Helvetica, sans-serif;
     		box-sizing: border-box;
+            border-radius: 2px;
     	}
     	h1 {
     		font-size: 250%;
@@ -10,7 +11,7 @@
     	section {
     		position: relative;
     		background-color: lightgray;
-    		border:4px black solid;
+    		border:1px black solid;
     		margin: 2%;
     		float: right;
     		width: 29.33%;
@@ -33,7 +34,7 @@
     		margin-top: 0;
     		background-color: gray;
     		border:black solid;
-    		border-width: 0px 0px 4px 4px; 
+    		border-width: 0px 0px 1px 1px; 
     	}
     	#t1 {
     		background-color: #8AC5DD;
